@@ -37,7 +37,7 @@ input[type="text"]
     border-bottom-left-radius:20px;
     border-top-left-radius:20px;
     padding-left: 10px;
-    
+    color: white;
 }
 input[type="submit"]
 {

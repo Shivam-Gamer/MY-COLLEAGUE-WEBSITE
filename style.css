@@ -1,0 +1,406 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.logo img{ 
+  position: absolute;
+  left: 108px;
+  top: 70px;
+}
+h1{
+  color:#DBDBDB ;
+  position: absolute;
+  top: 260px;
+  left: 68px;
+  text-align: center;
+  
+}
+p6{
+  color: #DC7E00;
+  position: absolute;
+  top: 360px;
+  left: 68px;
+  text-align: center;
+  font-size: 20px;
+  
+}
+input[type="text"]
+    {
+    border: #323232;
+    height: 40px;
+    width: 200px;
+    position: absolute;
+    background: #323232;
+    top: 500px;
+    left: 40px;
+    border-bottom-left-radius:20px;
+    border-top-left-radius:20px;
+    padding-left: 10px;
+    
+}
+input[type="submit"]
+{
+    border: 2px solid #C61F00;
+    border-bottom-right-radius:20px;
+    border-top-right-radius:20px;
+    height: 40px;
+    width:90px;
+    background: #E71331;
+    position: relative;
+    left:240px;
+    margin-left: 0px;
+    margin-top: 483px;
+}
+.blk{
+  margin-top: 20px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+.bck{
+  position: relative;
+  top: 20px;
+  left: 16px;
+ 
+}
+.content{
+  position: relative;
+  top: 70px;
+  border: 2px solid #EFEFEF;
+  border-radius: 8px;
+}
+.box img{
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+.auto{
+  position: absolute;
+  top: 250px;
+  left:65px;
+  height: 78px;
+  width: 200px;
+  border: 2px solid #BD2D18;
+  border-bottom-left-radius:20px;
+  border-top-left-radius:20px;
+  border-bottom-right-radius:20px;
+  border-top-right-radius:20px;
+  padding: 10px;
+  background:#E7E7E7 ;
+  text-decoration-line: underline;
+  color: #CA1F01;
+  font-size: 22px;
+  text-shadow:2px 2px 2.5px grey;
+}
+p{
+  position: absolute;
+  left: 59px;
+  top: 370px;
+  color: grey;
+}
+.BC{
+   position: absolute;
+   top: 520px;
+   left: 42px;
+    height: 130px;
+    width: 240px;
+    border: 2px solid #CA1F01;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 22px;
+    text-shadow:2px 2px 2.5px grey;
+    text-decoration-line: underline;
+    color: #CA1F01;
+    background: #E7E7E7;
+}
+p1{
+  position: absolute;
+  left: 59px;
+  top: 690px;
+  color: grey;
+}
+p2{
+  color:#983E10 ;
+}
+.CD{
+    position: absolute;
+    left: 45px;
+    top: 800px;
+    height: 130px;
+    width: 240px;
+    border: 2px solid #CA1F01;
+    border-radius: 30px;
+    padding: 10px;
+    font-size: 22px;
+    text-shadow:2px 2px 2.5px grey;
+    text-decoration-line: underline;
+    color: #CA1F01;
+   
+   }
+   p3{
+   position:absolute;
+   top: 970px;
+   left:50px;
+   color: grey;
+   }
+   .bg{
+     position: absolute;
+     top: 1110px;
+     left: 25px;
+   }
+   .DE{
+     position: absolute;
+     top: 35px;
+     left: 65px;
+     height: 54px;
+     width: 150px;
+     border: 2px solid #BD2603;
+     border-radius: 10px;
+     background: #EFAD4D;
+     color: #C12403;
+    font-size:17px ;
+    text-decoration-line:underline 
+   }
+   .GH{
+     position: absolute;
+     top: 110px;
+     left: 55px;
+     height: 54px;
+     width: 170px;
+     border: 2px solid #BD2603;
+     border-radius: 10px;
+     background: #EFAD4D;
+     color: #C12403;
+    font-size:17px ;
+    text-decoration-line:underline 
+   }
+.HI{
+     position: absolute;
+     top: 190px;
+     left: 65px;
+     height: 54px;
+     width: 150px;
+     border: 2px solid #BD2603;
+     border-radius: 10px;
+     background: #EFAD4D;
+     color: #C12403;
+    font-size:17px ;
+    text-decoration-line:underline 
+   }
+   
+.FG{
+     position: absolute;
+     top: 270px;
+     left: 56px;
+     height: 54px;
+     width: 170px;
+     border: 2px solid #BD2603;
+     border-radius: 10px;
+     background: #EFAD4D;
+     color: #C12403;
+    font-size:17px ;
+    text-decoration-line:underline 
+   }
+   .IH{
+     position: absolute;
+     top: 430px;
+     left: 40px;
+    height: 74px;
+    width: 200px;
+    border: 2px solid #C12403;
+    border-radius: 10px;
+    background:#62CE83;
+    color: #C12403;
+    font-size:20px ;
+    text-decoration-line:underline ;
+}
+.IJ{
+    position: absolute;
+    top: 530px;
+    left: 51px;
+    height: 74px;
+    width: 179px;
+    border: 2px solid #C12403;
+    border-radius: 10px;
+    background:#62CE83;
+    color: #C12403;
+    font-size:20px ;
+    text-decoration-line:underline ;
+}
+.fa-list-ol
+{
+    position: absolute;
+    left: 125px;
+    top: 630px;
+    color: #CA1F01 ;
+}
+.all{
+  position: absolute;
+  top:330px;
+  left:-27px;
+  
+}
+h3{
+  color: #CA1F01;
+  text-decoration-line: underline;
+  position: absolute;
+  top: 350px;
+  left: 80px;
+}
+.flow{
+  position: absolute;
+  top: 400px;
+  left:43px;
+  height: 200px;
+  width:252px;
+  
+}
+.flow a{
+  color: #CA1F01;
+}
+.munshiji img{
+  position: absolute;
+  top: 630px;
+  left: 120px;
+  border: 2px solid #EFEFEF;
+  border-radius: 50px;
+}
+h5{
+  position: absolute;
+  top: 760px;
+  left: 93px;
+  color:#CA1F01 ;
+  font-size: 20px;
+  width: 190px;
+}
+p5{
+  position: absolute;
+  top: 808px;
+  left: 48px;
+  width: 250px;
+  color: grey
+} 
+.principal img{
+  position: absolute;
+  top: 990px ;
+}
+p7{
+  position: absolute;
+  margin-top: 1200px;
+  left: 40px;
+  width: 290px;
+  color: grey;
+  
+}
+h6{
+  position: absolute;
+  top: 1150px;
+  left: 90px;
+  width: 150px;
+  color: #CA1F01;
+  font-size: 20px;
+}
+
+.foot{
+  position: absolute;
+  top: 1490px;
+  
+}
+.Insta{
+  position: absolute;
+  top:26px ;
+  left: 150px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  background: black;
+}
+.fa-instagram{
+  
+  color: white;
+}
+.face{
+  position: absolute;
+  top: 122px;
+  left: 150px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  background: black;
+}
+.fa-facebook{
+  color: white;
+}
+.you{
+  position: absolute;
+  top: 216px;
+  left: 150px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  background: black;
+}
+.fa-youtube-play{
+  color: white;
+}
+.Twitter{
+  position: absolute;
+  top: 310px;
+  left: 150px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  background: black;
+}
+.fa-twitter{
+  color: white;
+}
+h8,p9{
+  color: white;
+  
+}
+h8{
+  position: absolute;
+  top: 440px;
+  left: 20px;
+  color: #00FFFF;
+  text-decoration-line: underline;
+}
+p9{
+  position: absolute;
+  top: 440px;
+  left: 100px;
+  color: #8DB600;
+}
+.gt{
+  position: absolute;
+  top: 600px;
+  left: 150px;
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  border-radius: 50px;
+  background: black;
+}
+.fa-github{
+  color: white;
+}
+.sq{
+  position: absolute;
+  top: 442px;
+  left: 170px;
+  color: #DD7E00;
+  background: black;
+  border: 2px solid black;
+  }
+  h10{
+    color: white;
+    position: absolute;
+    top: 690px;
+    left: 50px;
+    width: 250px;
+  }
